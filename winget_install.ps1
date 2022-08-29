@@ -15,7 +15,7 @@ winget install --id OBSProject.OBSStudio
 winget install --id Valve.Steam
 winget install --id SumatraPDF.SumatraPDF
 winget install --id Microsoft.Teams
-winget install --id Microsoft.VisualStudioCode
+winget install --id Microsoft.VisualStudioCode --override "/silent /mergetasks=""addcontextmenufiles,addcontextmenufolders,addtopath,assiciatewithfiles"""
 winget install --id JAMSoftware.TreeSize.Free
 winget install --id UnityTechnologies.UnityHub
 winget install --id Twilio.Authy
