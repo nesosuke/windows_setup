@@ -5,6 +5,7 @@ winget install --id Discord.Discord
 winget install --id Docker.DockerDesktop
 winget install --id Gimp.Gimp
 winget install --id Git.Git
+winget install --id GitHub.GitLFS
 winget install --id Google.Chrome
 winget install --id Microsoft.WindowsTerminal
 winget install --id Mozilla.Firefox
@@ -30,3 +31,6 @@ winget install --id Nvidia.Broadcast
 winget install --id Nvidia.GeForceExperience
 winget install --id VideoLAN.VLC
 winget install --id OpenVPNTechnologies.OpenVPN
+winget install --id Parsec.Parsec
+winget install --id Spotify.Spotify
+winget install --id 9NVMNJCR03XV # MSI Center
